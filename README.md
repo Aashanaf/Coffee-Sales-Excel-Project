@@ -7,7 +7,7 @@ Businesses often struggle to make sense of raw sales data and miss out on valuab
 
 1. Clean data organization and structure
 
-2. Smart use of XLOOKUP, IFXLOOKUP, and INDEX
+2. Smart use of XLOOKUP, IF, and INDEX
 
 3. Pivot tables for quick insights
 
